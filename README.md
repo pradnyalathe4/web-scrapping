@@ -1,4 +1,4 @@
-**Project Description**
+**Project Description:**
 
 This project is a web scraping application that extracts LED television details from an online retail website and stores them in a structured format for analysis and reuse.
 The scraper collects important product information such as TV model name, selling price, discount offer, and actual MRP using Python-based web scraping techniques.
